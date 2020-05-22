@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6d886f1-63cd-46f1-bb1b-30dcce9e5662" name="Default Changelist" comment="" />
+    <list default="true" id="b6d886f1-63cd-46f1-bb1b-30dcce9e5662" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1bwDVcRXXxgDJI4MbCcDZsbPgUM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -80,6 +95,14 @@
       <screen x="67" y="27" width="1853" height="955" />
     </state>
     <state x="369" y="425" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.955@67.27.1853.955" timestamp="1589545526948" />
+    <state x="817" y="390" width="327" height="210" key="Github.ShareDialog" timestamp="1590133678350">
+      <screen x="67" y="27" width="1837" height="939" />
+    </state>
+    <state x="817" y="390" width="327" height="210" key="Github.ShareDialog/67.27.1837.939@67.27.1837.939" timestamp="1590133678350" />
+    <state x="679" y="201" width="602" height="588" key="Github.UntrackedFilesDialog" timestamp="1590133697772">
+      <screen x="67" y="27" width="1837" height="939" />
+    </state>
+    <state x="679" y="201" width="602" height="588" key="Github.UntrackedFilesDialog/67.27.1837.939@67.27.1837.939" timestamp="1590133697772" />
     <state width="1830" height="246" key="GridCell.Tab.0.bottom" timestamp="1589962622641">
       <screen x="67" y="27" width="1853" height="955" />
     </state>
